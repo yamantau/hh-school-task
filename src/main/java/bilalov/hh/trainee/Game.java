@@ -1,6 +1,5 @@
 package bilalov.hh.trainee;
 
-import bilalov.hh.trainee.entity.Monster;
 import bilalov.hh.trainee.service.Dungeon;
 import bilalov.hh.trainee.service.StoryTeller;
 import org.apache.logging.log4j.LogManager;

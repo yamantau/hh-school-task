@@ -5,19 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6be8f3d8-b216-415c-a955-0ca8a7314934" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/bilalov/hh/trainee/Game.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/bilalov/hh/trainee/service/Dice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/bilalov/hh/trainee/service/Dungeon.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/bilalov/hh/trainee/service/StoryTeller.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/log4j2-test.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/bilalov/hh/trainee/AppTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/bilalov/hh/trainee/Game.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bilalov/hh/trainee/Game.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/bilalov/hh/trainee/AppTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/bilalov/hh/trainee/Game.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/bilalov/hh/trainee/Game.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
