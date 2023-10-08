@@ -36,6 +36,7 @@ public class Game {
                 difficultyLvl = scanner.nextInt();
                 if (difficultyLvl > 3 || difficultyLvl < 0){
                     StoryTeller.getBrokeIntoPiecesText("Вы ввели неподходящую настройку");
+                    scanner.nextLine();
                     continue;
                 }
                 return difficultyLvl;

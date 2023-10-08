@@ -4,11 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6be8f3d8-b216-415c-a955-0ca8a7314934" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    <list default="true" id="6be8f3d8-b216-415c-a955-0ca8a7314934" name="Changes" comment="hh-trainee-bilalov">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/bilalov/hh/trainee/Game.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bilalov/hh/trainee/Game.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/bilalov/hh/trainee/AppTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/bilalov/hh/trainee/Game.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/bilalov/hh/trainee/Game.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,6 +53,14 @@
       <option name="presentableId" value="Default" />
       <updated>1696701277637</updated>
     </task>
+    <task id="LOCAL-00001" summary="hh-trainee-bilalov">
+      <created>1696795608048</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1696795608048</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -67,5 +73,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="hh-trainee-bilalov" />
+    <option name="LAST_COMMIT_MESSAGE" value="hh-trainee-bilalov" />
   </component>
 </project>
